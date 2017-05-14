@@ -5,4 +5,5 @@
 Theory:
 https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-coding-edd8f1cf8f2d
 
-Coding 
+Coding :
+https://medium.com/machine-learning-101/chapter-3-decision-trees-theory-e7398adac567
