@@ -1,9 +1,9 @@
-## Data set and code for the Chapter 1: Naive Bayes ##
+## Data set and code for the Chapter 2: Support Vector Machine##
 
 ### Blog Link ###
 
-Theory about Naive Bayes
-https://medium.com/machine-learning-101/chapter-1-supervised-learning-and-naive-bayes-classification-part-1-theory-8b9e361897d5
+Theory  
+https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72
 
-Coding example:
-https://medium.com/machine-learning-101/chapter-1-supervised-learning-and-naive-bayes-classification-part-2-coding-5966f25f1475
+Coding:
+https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-coding-edd8f1cf8f2d
