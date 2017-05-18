@@ -24,6 +24,6 @@ Theory : https://medium.com/machine-learning-101/chapter-3-decision-trees-theory
 
 Coding : https://medium.com/machine-learning-101/chapter-3-decision-tree-classifier-coding-ae7df4284e99
 
-### chapter 3 ###
+### chapter 5 ###
 Random Forest Classifier
 https://medium.com/machine-learning-101/chapter-5-random-forest-classifier-56dc7425c3e1
