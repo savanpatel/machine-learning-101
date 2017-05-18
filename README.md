@@ -21,4 +21,5 @@ Coding : https://medium.com/machine-learning-101/chapter-2-svm-support-vector-ma
 Decision Tree Classifier
 
 Theory : https://medium.com/machine-learning-101/chapter-3-decision-trees-theory-e7398adac567
-Coding : 
+
+Coding : https://medium.com/machine-learning-101/chapter-3-decision-tree-classifier-coding-ae7df4284e99
