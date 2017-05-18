@@ -1,0 +1,3 @@
+Subject: german text corpus / noun taxonomy
+
+dear linguist , german text corpus , particularly corpus contain parse ( least partially parse ) sentence . database contain information synonymy hyponymy relation between german noun information usefull build classification taxonomy german noun . thank help . andrea wagner
