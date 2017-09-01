@@ -14,19 +14,21 @@ Coding example: https://medium.com/machine-learning-101/chapter-1-supervised-lea
 ### Chapter 2 ###
 Support Vector Machine
 
-Theory : https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72
+Theory : https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72 
 Coding : https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-coding-edd8f1cf8f2d
 
 ### Chapter 3 ###
 Decision Tree Classifier
 
-Theory : https://medium.com/machine-learning-101/chapter-3-decision-trees-theory-e7398adac567
+Theory : https://medium.com/machine-learning-101/chapter-3-decision-trees-theory-e7398adac567 
 Coding : https://medium.com/machine-learning-101/chapter-3-decision-tree-classifier-coding-ae7df4284e99
 
 ### Chapter 4 ###
 K Nearest Neighbors Classifier
+
 https://medium.com/machine-learning-101/k-nearest-neighbors-classifier-1c1ff404d265
 
 ### Chapter 5 ###
 Random Forest Classifier
+
 https://medium.com/machine-learning-101/chapter-5-random-forest-classifier-56dc7425c3e1
